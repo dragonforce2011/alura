@@ -1,0 +1,75 @@
+body {
+
+}
+.seila{
+	background: #ffffff;
+}
+#banner{
+	width: 40%;
+	border: 5px solid #000000;
+	border-radius: 8px;
+}
+.principal {
+	background: #ffffff;
+	padding: 30px;
+}
+.titulo{
+	background-color: #ffffff;
+}
+.tituloprincipal {
+	color:#FFFFFF;
+	background-color: #000000ca;
+	padding-left: 30px;
+}
+.titulocentralizado{
+	background-color: #000000ca;
+	text-align: center;
+	font-size: 40px;
+	color: rgb(251, 247, 255);
+}
+p {
+	text-align: center;
+	color: #000000;
+}
+
+#missao {
+    font-size:50px
+}
+
+em strong {
+	color: red;
+}
+
+.itens{
+	font-style: bold;
+	background-color: #0b1d22d6;
+	border-radius: 20%;
+}
+.beneficios {
+	background-image: url(rock.jpeg);
+	padding: 20px;
+}
+
+ul {
+	color: #FFFFFF;
+	font-size: 30px;
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	mask-origin: 15%;
+
+}
+.imagembeneficios{
+	width: 50%;
+	border: 5px solid #ffffff;
+}
+footer{
+	text-align: center;
+	background: url(bg.jpg);
+	padding: 40px 0px;
+}
+.copyr{
+	color: #FFFFFF;
+	font-size: 13px;
+	margin:20px 0 0; /*aqui é pra fazer um comentario*/
+}
