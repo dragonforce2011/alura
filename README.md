@@ -1,2 +1,2 @@
 # alura
-projeto barbearia
+projeto barbearia introdução a HTML e CSS
